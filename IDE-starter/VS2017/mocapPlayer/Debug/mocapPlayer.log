@@ -1,0 +1,18 @@
+﻿  displaySkeleton.cpp
+  interface.cpp
+  mocapPlayer.cpp
+C:\Users\Jiaqi\Desktop\Study\SS23\520\csci520-assignment2\mocapPlayer-starter\mocapPlayer.cpp(208,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jiaqi\Desktop\Study\SS23\520\csci520-assignment2\mocapPlayer-starter\mocapPlayer.cpp(312,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jiaqi\Desktop\Study\SS23\520\csci520-assignment2\mocapPlayer-starter\mocapPlayer.cpp(431,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Jiaqi\Desktop\Study\SS23\520\csci520-assignment2\mocapPlayer-starter\mocapPlayer.cpp(951,27): warning C4018: '>=': signed/unsigned mismatch
+  motion.cpp
+  performanceCounter.cpp
+  pic.cpp
+  posture.cpp
+  ppm.cpp
+  quaternion.cpp
+  skeleton.cpp
+  transform.cpp
+  vector.cpp
+  Generating Code...
+  mocapPlayer.vcxproj -> C:\Users\Jiaqi\Desktop\Study\SS23\520\csci520-assignment2\IDE-starter\VS2017\Debug\mocapPlayer.exe

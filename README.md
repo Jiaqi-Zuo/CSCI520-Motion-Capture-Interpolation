@@ -1,6 +1,6 @@
 # CSCI520 Motion Capture Interpolation
 
-![](https://github.com/Jiaqi-Zuo/CSCI520---Jello-Cube-Simulation/blob/b0eefc1de173d42791dcd28ac2b7be84dd9e8512/animation/jello.gif)
+![](https://github.com/Jiaqi-Zuo/CSCI520-Motion-Capture-Interpolation/blob/a63ac5de0440db608983c2a7cc368cb9c3002403/bqN40.gif)
 
 <sup>Input motion (in red) and Bezier SLERP quaternion (in green)</sup>
 
